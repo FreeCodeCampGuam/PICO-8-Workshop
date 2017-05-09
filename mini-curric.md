@@ -13,9 +13,9 @@
         4. And if you are planning on selling your game, you can't leave out Marketing
         5. and all the Legal / Business aspects you'll have to tackle
     3. but you don't have to be an expert in any of those to start making games. Now adays there are many tools that do much of that hard work for you.
-        1. Unreal Engine (free) - The engine used by most AAA Studios. Professional and heavy duty. Games like Unreal Tournament, Gears of War, Dues Ex, Bioshock, Brothers in Arms, Assassin's Creed, Batman Arkham Asylum, Rocket League
+        1. Unreal Engine (free) - The engine used by most AAA Studios. Professional and heavy duty. Games like Gears of War, Bioshock, Batman Return to Arkham, Rocket League, and of course Unreal Tournament (which is now open source)
         2. Unity (free) - Popular with Indies. Lots of mobile games like Fallout Shelter, Triple Town, Threes, Temple Run, Angry Birds 2, Pokemon GO, Super Mario Run. As well as games like Battlestar Galactica Online, Guns of Icarus, 7 Days to Die, Deus Ex: The Fall, Gone Home, Robocraft, Shelter, Rust, The Forest, Kerbal Space Program, Ori and the Blind forest
-        3. GameMaker ($99 +) - Easy and Indie. Games like Hyper Light Drifter, Crashlands, Spelunky, Savant: Ascent, Cook Serve Delicious, Hotline Miami, Nidhogg, Undertale, Deadbolt, Risk of Rain
+        3. GameMaker ($99 +) - Easy and Indie. Games like Hyper Light Drifter, Crashlands, Spelunky, Savant: Ascent, Hotline Miami, Nidhogg, Undertale, Deadbolt, Risk of Rain
     4. We will be using Pico-8 though because it is an easy to use all in one game development tool. Pico-8 was designed with harsh limitations chosen to be fun and challenging to work with while cutting out all all the fat that might get in the way of beginners learning how to program or make games. You'll find that people can do so much with pico-8 despite its limitations and the pico-8 "scene" can become very reminiscent of earlier history in game making
 3. overview (with jelpi) - while they are installing
     1. terminal - load jelpi.p8
