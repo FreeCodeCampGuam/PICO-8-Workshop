@@ -51,7 +51,60 @@
     9. cd mygames
     10. make first program
     
-### Basic Structure
+### Playing around
+```
+cls, circ, print
+var x/y
+line x+/y+
+    store in vars 
+spr
+    spr flipped
+if flipped line
+else only print
+while true t+1 print
+    color t
+_draw circ 
+    r:t/10,t
+    %10
+    sin ?
+        sin t/40
+            *10
+    x + sin
+        cos
+    y + sin
+        cos
+    r: + 5  ?(-1,1)
+```
+
+### Breakout walkthrough
+```
+sprite / map editor
+    rotate, copy paste, fill
+bg, map, paddle
+vars padx/y
+special funcs
+    vars in _init
+    draw in _draw
+padx += 1
+max(padx, 120)
+    - width
+if btn, move pad
+move left
+padspeed
+draw centered ball
+move ball
+    rnd start
+pause
+draw pause
+    centered text
+    shadow
+    blink
+solid/collide functions
+ in _update
+```
+
+
+### Outcomes
 ```
 data types
     numbers
